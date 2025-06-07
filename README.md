@@ -6,7 +6,9 @@ This project was created as a part of my frontend development learning to practi
 
 ## 📍 Deployed Link
 
-[Netflix-clone](https://neha-flix-clone.netlify.app/)
+- Pervious: [Netflix-clone](https://neha-flix-clone.netlify.app/)
+
+- Updated: [Netflix-clone1](https://neha-flix-clone1.netlify.app/)
 
 ## 📂 Project Structure
 
