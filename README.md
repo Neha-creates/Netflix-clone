@@ -8,7 +8,7 @@ This project was created as a part of my frontend development learning to practi
 
 - Pervious: [Netflix-clone](https://neha-flix-clone.netlify.app/)
 
-- Updated: [Netflix-clone1](https://neha-flix-clone1.netlify.app/)
+- Updated: [Netflix-clone1](https://neha-flix1-clone.netlify.app/)
 
 ## 📂 Project Structure
 
